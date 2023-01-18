@@ -10,7 +10,6 @@
 <br>
 
 <form:form action="saveEmployee" modelAttribute="employee">
-  <form:hidden path="id"/>
   Name <form:input path="name"/>
   <br>
 
